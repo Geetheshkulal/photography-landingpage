@@ -60,7 +60,7 @@ const Header = () => {
 
       </div>
       <div class="text-slate-700 dark:text-slate-500 pt-3">
-      Document your wedding day from start to finish, preserving memories of your special moments.
+      Document your wedding day from start to finish, preserving memories of your special moments...
       </div>
       </div>
 
