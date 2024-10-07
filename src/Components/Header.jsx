@@ -25,7 +25,7 @@ const Header = () => {
     <>
     <div className="motionTop header flex items-center justify-center py-40" data-aos="fade-right">
       <div className="text-center">
-        <h1 className="text-5xl font-bold gradient-text">Capture Your Moment, Preserve Your Memories</h1>
+        <h1 className="text-5xl font-bold gradient-text">Capture Your Moments, Preserve Your Memories</h1>
         <p className="mt-4 text-gray-300">Our studio specializes in creating beautiful and timeless photographs that capture the essence of your special moments.</p>
         <button className="mt-6 px-6 py-2 bg-gradient-to-r from-purple-400 to-blue-400 text-black font-semibold rounded-full">Book a Session</button>
       </div>
